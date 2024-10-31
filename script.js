@@ -67,7 +67,7 @@ function populateScheduleTable(xmlDoc) {
 
     // Otsikot
     const headerRow = document.createElement("tr");
-    ["Movie Poster", "Title", "Genre", "Showtime"].forEach(headerText => {
+    ["Juliste", "Nimi", "Genre", "Esitysaika"].forEach(headerText => {
         const th = document.createElement("th");
         th.textContent = headerText;
         th.style.border = "1px solid black";
