@@ -20,7 +20,7 @@ The app can be used to check the current day's event at a user-designated Finnki
 
 ## Screenshots
 
-![image](images/ajax_kuva.JPG)
+![image](images/ajax_image.JPG)
 
 Picture by me
 
